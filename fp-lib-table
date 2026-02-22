@@ -1,3 +1,6 @@
 (fp_lib_table
+  (version 7)
   (lib (name "sata")(type "KiCad")(uri "${KIPRJMOD}/libs/sata.pretty")(options "")(descr ""))
+  (lib (name "CONN_877791001_MOL")(type "KiCad")(uri "${KIPRJMOD}/libs/CONN_877791001_MOL")(options "")(descr ""))
+  (lib (name "CONN_47080-4001_MOL")(type "KiCad")(uri "${KIPRJMOD}/libs/CONN_47080-4001_MOL.pretty")(options "")(descr ""))
 )
