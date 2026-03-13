@@ -570,9 +570,9 @@
       "plot": "out/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "sata-backplane.step",
       "svg": "",
-      "vrml": ""
+      "vrml": "sata-backplane.wrl"
     },
     "page_layout_descr_file": ""
   },
